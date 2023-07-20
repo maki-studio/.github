@@ -2,7 +2,7 @@
 Welcome to the studio, 😄  
 Doing some solopreneurship in my spare time 👍.  
 Exploring the amazing world of design for fun, and profit.  
-Well, the 2 don't exist in the same line for long but let's seize the moment.
+Well, the 2 don't exist on the same line for long, but let's seize the moment.
 
 <!--
 
