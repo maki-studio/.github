@@ -1,5 +1,5 @@
 ## Hi there, 👋
-Welcome to the studio, 😄
+Welcome to the studio, 😄  
 Doing some solopreneurship in my spare time 👍.
 <!--
 
