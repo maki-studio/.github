@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, 👋
+Welcome to the studio, 😄
+Doing some solopreneurship in my spare time 👍.
 <!--
 
 **Here are some ideas to get you started:**
