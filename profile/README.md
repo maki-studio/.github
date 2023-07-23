@@ -21,6 +21,7 @@ Well, the 2 don't exist on the same line for long, but let's seize the moment.
 
 <div align="">
 
+<img width="48" height="48" title="lunacy"  src="https://raw.githubusercontent.com/maki-studio/.github/b974af72f4208daf7678d1cf772096e55bcc7aa0/profile/lunacy-logo.svg" />
 
 <img  width="48" height="48" title="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />  
 
