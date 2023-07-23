@@ -40,9 +40,8 @@ Well, the 2 don't exist on the same line for long, but let's seize the moment.
 
 ###### * fun fact, these tools are `FREE!` 🆓
 
-<br/>
 
-## `Reach out on` 💬
+## `Reach out` 💬
 
 [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fshokosamuel&label=twitter)](https://twitter.com/shokosamuel)
 
