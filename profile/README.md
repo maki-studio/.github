@@ -21,20 +21,23 @@ Well, the 2 don't exist on the same line for long, but let's seize the moment.
 
 <div align="">
 
-<img width="48" height="48" title="lunacy"  src="https://raw.githubusercontent.com/maki-studio/.github/b974af72f4208daf7678d1cf772096e55bcc7aa0/profile/lunacy-logo.svg" />
+<a href="https://icons8.com/lunacy"><img width="48" height="48" title="lunacy"  src="https://raw.githubusercontent.com/maki-studio/.github/b974af72f4208daf7678d1cf772096e55bcc7aa0/profile/lunacy-logo.svg" /></a>
 
-<img  width="48" height="48" title="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />  
+<a href="https://inkscape.org/"><img  width="48" height="48" title="inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" /></a>  
 
-<img width="48" height="48" title="gimp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />  
+<a href="https://www.gimp.org/"><img width="48" height="48" title="gimp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></a>  
 
-<img width="48" height="48" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
+<a href="https://code.visualstudio.com/"><img width="48" height="48" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>  
 
-<img width="48" height="48" title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<a href="https://www.figma.com/"><img width="48" height="48" title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 
-<img width="48" height="48" title="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />          
+<a href="https://wordpress.com/"><img width="48" height="48" title="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a>  
 
-<img width="48" height="48" title="drupal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" />          
-                
+<a href="https://www.drupal.org/"><img width="48" height="48" title="drupal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" /></a>  
+
+<a href="https://www.blender.org/"><img width="48" height="48" title="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></a>  
+
+<a href="https://www.canva.com/"><img width="48" height="48" title="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>                 
           
 </div>
 
