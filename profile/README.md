@@ -1,10 +1,9 @@
 ![profile-banner](https://github.com/maki-studio/.github/blob/main/profile/github-banner.png?raw=true)
 ---
 ## `Hi there`, 👋
-Welcome to the studio, 😄  
-Doing some solopreneurship in my spare time 👍.  
-Exploring the amazing world of design for fun, pragmatism and profit.  
-<!-- Well, the 2 don't exist on the same line for long, but let's seize the moment. -->
+Launching our small but mighty studio! 💪  
+We're a team of passionate designers working together to create innovative solutions.  
+Let's see what we can achieve together.  
 
 <!--
 
@@ -17,7 +16,7 @@ Exploring the amazing world of design for fun, pragmatism and profit.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## `Curious about the tools I use ?` 😲 
+## `Curious about the tools We use ?` 😲 
 
 <div align="">
 
