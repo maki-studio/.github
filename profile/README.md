@@ -1,8 +1,8 @@
 ![profile-banner](https://github.com/maki-studio/.github/blob/main/profile/github-banner.png?raw=true)
 ---
 ## `Hi there`, 👋
-Launching our small but mighty studio! 💪  
-We're a team of passionate designers working together to create innovative solutions.  
+Launching our remote studio 📍🌍  
+We're a team of passionate designers & engineers working together to create innovative solutions.  
 Let's see what we can achieve together.  
 
 <!--
