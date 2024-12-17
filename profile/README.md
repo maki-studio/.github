@@ -1,10 +1,9 @@
 ![profile-banner](https://github.com/maki-studio/.github/blob/main/profile/github-banner.png?raw=true)
 ---
 ## `Hi there`, 👋
-Welcome to the studio, 😄  
-Doing some solopreneurship in my spare time 👍.  
-Exploring the amazing world of design for fun, pragmatism and profit.  
-<!-- Well, the 2 don't exist on the same line for long, but let's seize the moment. -->
+We are a remote studio 📍🌍  
+We're a team of passionate designers & engineers working together to create innovative solutions.  
+Let's see what we can achieve together.  
 
 <!--
 
@@ -17,7 +16,7 @@ Exploring the amazing world of design for fun, pragmatism and profit.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## `Curious about the tools I use ?` 😲 
+## `Curious about the tools We use ?` 😲 
 
 <div align="">
 
@@ -27,7 +26,6 @@ Exploring the amazing world of design for fun, pragmatism and profit.
 <a href="https://code.visualstudio.com/"><img width="48" height="48" title="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <a href="https://www.figma.com/"><img width="48" height="48" title="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></a>
 <a href="https://wordpress.com/"><img width="48" height="48" title="wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /></a> 
-<a href="https://www.drupal.org/"><img width="48" height="48" title="drupal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" /></a> 
 <a href="https://www.blender.org/"><img width="48" height="48" title="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /></a> 
 <a href="https://www.canva.com/"><img width="48" height="48" title="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>                 
           
