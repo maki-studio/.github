@@ -3,8 +3,8 @@
 
 ## `Hi there`, 👋
 
-We are a remote studio 📍🌍
-We're a team of passionate designers & engineers working together to create innovative solutions.
+We are a remote studio 📍🌍  <br/>
+We're a team of passionate designers & engineers working together to create innovative solutions.  <br/>
 Let's see what we can achieve together.
 
 <!--
@@ -18,7 +18,7 @@ Let's see what we can achieve together.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## `Curious about the tools We use ?` 😲
+## `Curious about the tools We use ?` 🤔
 
 <div align="">
 
@@ -32,9 +32,11 @@ Let's see what we can achieve together.
 <a href="https://www.canva.com/"><img width="48" height="48" title="blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /></a>
 <a href="https://www.claude.ai/"><img width="48" height="48" title="claude" src="https://api.iconify.design/logos:claude-icon.svg" /></a>
 <a href="https://www.notion.so/"><img width="48" height="48" title="notion" src="https://api.iconify.design/logos:notion-icon.svg" /></a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve"><img width="48" height="48" title="davinci resolve" src="https://raw.githubusercontent.com/maki-studio/.github/75384df9ea92f3c8e1fa20ae6b67ea5de111a99b/profile/davinci-resolve-logo.svg" /></a>
+
 </div>
 
-###### * fun fact, these tools can be used for `FREE!` 🆓
+###### * fun fact, these tools can be used for `FREE!` 🎈
 
 ## `Reach out` 💬
 
