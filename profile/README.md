@@ -5,7 +5,7 @@
 
 We are a remote studio 📍🌍  <br/>
 We're a team of passionate designers & engineers working together to create innovative solutions.  <br/>
-Let's see what we can achieve together.
+Visit our website for more.
 
 <!--
 
