@@ -18,7 +18,7 @@ Visit our website for more.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## `Curious about the tools We use ?` 🤔
+## `Curious about some of the tools We use ?` 🤔
 
 <div align="">
 
